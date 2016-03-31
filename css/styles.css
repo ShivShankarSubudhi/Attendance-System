@@ -1,0 +1,23 @@
+.text-red{color: red;}
+.cb-form-group{padding:5px 60px;}
+.cb-form-group>label{margin:5px 0px;}
+.cb-form-group > input{border-radius:0px;}
+.show_catpcha_error{display: block;}
+.hide_catpcha_error{display: none;}
+.btn-submit{width:86px; height: 36px;}
+.cb-contact-content{padding-right: 15px!important; margin-top:15px;}
+.cb-contact-header{padding:3px 0px 0px 20px;}
+.cb-contact-header-content{padding: 5px 10px 10px 20px;}
+.cb-contact-controller{padding:20px 10px;margin-bottom:20px;}
+.cb-contact-msg{border-radius:0px;}
+.cb-error-msg{color: #d0021b;padding-left: 10px !important;}
+.cb-head-opning{padding-top: 40px;}
+.cb-sub-opning{padding-top: 5px;}
+.cb-success-msg{color:#32a444;padding-left: 10px !important;}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 2px solid black;
+}
